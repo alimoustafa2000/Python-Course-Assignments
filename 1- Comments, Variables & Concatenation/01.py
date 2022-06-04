@@ -9,7 +9,6 @@ name = "Ali"
 age = "22"
 country = "Egypt"
 
-
 print(type(name))
 print(type(age))
 print(type(country))
@@ -19,7 +18,6 @@ print("=" * 40)
 print("Name:" + name)
 print("Age:" + age)
 print("Country:" + country)
-
 
 print("=" * 40)
 
