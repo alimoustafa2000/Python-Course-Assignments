@@ -104,3 +104,17 @@ technologies = ["Html", "CSS", "JS", "Python", ["Django", "Flask", "Web"]]
 
 print(technologies[-1][0])
 print(technologies[-1][-1])
+
+print("="*40)
+
+# ---------------(Task 11)---------------
+
+my_list = [1, 2, 3, 3, 4, 5, 1]
+my_list.remove(1)
+my_list.remove(3)
+my_list.sort()
+unique_list = my_list
+
+print(unique_list)
+print(type(unique_list))
+print(unique_list[0:4])
