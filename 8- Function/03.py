@@ -1,9 +1,9 @@
-def member_skills (name,*skills):
+def member_skills (name = "",*skills):
 
     if name == "":
         name = "Unknown"
         
-    if skills == "":
+    if skills == ():
         print(f'Hello {name} You Have No Skills To Show')
 
     else:
@@ -14,3 +14,5 @@ def member_skills (name,*skills):
             print(f"- {skill}")
 
 member_skills (input("What's Your Name? ").strip().capitalize(), *input("Enter Your skills? ").split())
+
+member_skills ()
