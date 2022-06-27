@@ -17,10 +17,10 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 - [x] Loops (While loop and For loop)
 - [x] Function
 - [x] Packing, Recursion and Lambda
-- [ ] Built In Functions
+- [x] Built In Functions
+- [x] Map, Filter and Reduce
 - [x] Files Handling
-- [ ] Map, Filter and Reduce
-- [ ] Modules and Packages
+- [x] Modules and Packages
 - [ ] Date and Time
 - [ ] Generators and Decorators
 - [ ] Collection Of Modules
