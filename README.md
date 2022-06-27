@@ -20,7 +20,7 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 - [x] Built In Functions
 - [x] Map, Filter and Reduce
 - [x] Files Handling
-- [ ] Modules and Packages
+- [x] Modules and Packages
 - [ ] Date and Time
 - [ ] Generators and Decorators
 - [ ] Collection Of Modules
