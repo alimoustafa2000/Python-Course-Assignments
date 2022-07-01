@@ -21,7 +21,7 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 - [x] Map, Filter and Reduce
 - [x] Files Handling
 - [x] Modules and Packages
-- [ ] Date and Time
+- [x] Date and Time
 - [ ] Generators and Decorators
 - [ ] Collection Of Modules
 - [ ] Error Handling and Debugging
