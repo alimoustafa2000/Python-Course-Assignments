@@ -3,6 +3,8 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 
 ---
 
+![75%](https://progress-bar.dev/75/?title=Done)
+<br />
 ## Learning objectives
 - [x] What is Python
 - [x] Comments and Variables
