@@ -3,8 +3,15 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 
 ---
 
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Course-20h24m-blue">
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Lessons%20For%20This%20Course-152 Lesson-yellow">
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-113 Assignment-blue">
+
 ![75%](https://progress-bar.dev/75/?title=Done)
 <br />
+
 ## Learning objectives
 - [x] What is Python
 - [x] Comments and Variables
