@@ -9,7 +9,7 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-113 Assignment-blue">
 
-![75%](https://progress-bar.dev/75/?title=Done)
+![83%](https://progress-bar.dev/83/?title=Done)
 <br />
 
 ## Learning objectives
@@ -31,8 +31,8 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 - [x] Files Handling
 - [x] Modules and Packages
 - [x] Date and Time
-- [ ] Generators and Decorators
-- [ ] Collection Of Modules
+- [x] Generators and Decorators
+- [x] Collection Of Modules
 - [ ] Error Handling and Debugging
 - [ ] Regular Expression
 - [ ] Object Oriented Programming (OOP)
