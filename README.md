@@ -32,7 +32,7 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 - [x] Modules and Packages
 - [x] Date and Time
 - [x] Generators and Decorators
-- [x] Collection Of Modules
+- [x] Collection of Modules
 - [ ] Error Handling and Debugging
 - [ ] Regular Expression
 - [ ] Object Oriented Programming (OOP)
