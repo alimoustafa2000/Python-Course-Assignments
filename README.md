@@ -12,8 +12,7 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 ![83%](https://progress-bar.dev/83/?title=Done)
 <br />
 
-## Learning objectives
-- [x] What is Python
+## Tasks List
 - [x] Comments and Variables
 - [x] Strings and it's Methods
 - [x] Numbers and Arithmetic Operators
@@ -23,7 +22,8 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 - [x] Operators and Type Conversion
 - [x] User Input
 - [x] Control Flow (if, elif, else statements)
-- [x] Loops (While loop and For loop)
+- [x] Loop (While loop) 
+- [x] Loop (For loop)
 - [x] Function
 - [x] Packing, Recursion and Lambda
 - [x] Built In Functions
@@ -32,7 +32,7 @@ This repo is for Tasks of "Mastring Python" Course, Elzero web school.
 - [x] Modules and Packages
 - [x] Date and Time
 - [x] Generators and Decorators
-- [x] Collection Of Modules
+- [x] Collection of Modules
 - [ ] Error Handling and Debugging
 - [ ] Regular Expression
 - [ ] Object Oriented Programming (OOP)
