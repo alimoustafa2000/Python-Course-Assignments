@@ -1,5 +1,5 @@
-# Python-Course-Tasks
-This repo is for Tasks of "Mastring Python" Course, Elzero web school. 
+# Python-Course-Assignments
+This repo is for Assignments of "Mastering Python" Course, Elzero web school. 
 
 ---
 
