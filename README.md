@@ -12,7 +12,7 @@ This repo is for Assignments of "Mastering Python" Course, Elzero web school.
 ![83%](https://progress-bar.dev/83/?title=Done)
 <br />
 
-## Tasks List
+## Assignments List
 - [x] Comments and Variables
 - [x] Strings and it's Methods
 - [x] Numbers and Arithmetic Operators
