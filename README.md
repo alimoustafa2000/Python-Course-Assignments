@@ -34,7 +34,7 @@ This repo is for Assignments of "Mastering Python" Course, Elzero web school.
 - [x] Generators and Decorators
 - [x] Collection of Modules
 - [x] Error Handling and Debugging
-- [ ] Regular Expression
+- [x] Regular Expression
 - [ ] Object Oriented Programming (OOP)
 - [ ] SQLite Database
 - [ ] Advanced Concepts
