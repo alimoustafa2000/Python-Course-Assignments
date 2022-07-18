@@ -1,4 +1,4 @@
-# ---------------(Task 1)---------------
+# ---------------(Assignment 1)---------------
 
 name = "Ali",
 
@@ -7,7 +7,7 @@ print(type(name))
 
 print("="*40)
 
-# ---------------(Task 2)---------------
+# ---------------(Assignment 2)---------------
 
 my_friends = ("Osama", "Ahmed", "Sayed")
 
@@ -21,7 +21,7 @@ print(f"{len(friends_tuple)} Elements")
 
 print("="*40)
 
-# ---------------(Task 3)---------------
+# ---------------(Assignment 3)---------------
 
 nums = (1, 2, 3)
 letters = ("A", "B", "C")
@@ -33,7 +33,7 @@ print(f"{len(my_tuple)} Elements")
 
 print("="*40)
 
-# ---------------(Task 4)---------------
+# ---------------(Assignment 4)---------------
 
 my_tuple = (1, 2, 3, 4)
 

@@ -1,4 +1,4 @@
-# ---------------(Task 1)---------------
+# ---------------(Assignment 1)---------------
 
 User_name = input("What's your name? ").strip().capitalize()
 
@@ -6,7 +6,7 @@ print(f"Hello {User_name}, Happy To See You Here.")
 
 print("="*40)
 
-# ---------------(Task 2)---------------
+# ---------------(Assignment 2)---------------
 
 User_age = int(input("How old are you? ").strip().capitalize())
 
@@ -18,7 +18,7 @@ else:
 
 print("="*40)
 
-# ---------------(Task 3)---------------
+# ---------------(Assignment 3)---------------
 
 First_Name = input("What's your first name? ").strip().capitalize()
 Second_Name = input("What's your second name? ").strip().capitalize()
@@ -27,7 +27,7 @@ print(f"Hello, {First_Name} {Second_Name[0]}.")
 
 print("="*40)
 
-# ---------------(Task 4)---------------
+# ---------------(Assignment 4)---------------
 
 User_email = input("Email Address? ").strip().lower()
 

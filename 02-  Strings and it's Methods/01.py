@@ -1,4 +1,4 @@
-# ---------------(Task 1)---------------
+# ---------------(Assignment 1)---------------
 
 name = "Ali"
 age = 22
@@ -8,7 +8,7 @@ print(f'Hello {name}, How are you doing? \\""" Your age is "{age}" + Your countr
 
 print("="*40)
 
-# ---------------(Task 2)---------------
+# ---------------(Assignment 2)---------------
 
 name = "Ali"
 age = 22
@@ -18,7 +18,7 @@ print(f'Hello {name}, How are you doing? \\\n""" Your age is "{age}" +\nYour cou
 
 print("="*40)
 
-# ---------------(Task 3)---------------
+# ---------------(Assignment 3)---------------
 
 name = "Abdelkader"
 
@@ -29,7 +29,7 @@ print(f'Last  Letter Is "{name[-1]}"')
 
 print("="*40)
 
-# ---------------(Task 4)---------------
+# ---------------(Assignment 4)---------------
 
 name = "Abdelkader"
 
@@ -39,7 +39,7 @@ print(f'Third Letter Is "{name[:9:2]}"')
 
 print("="*40)
 
-# ---------------(Task 5)---------------
+# ---------------(Assignment 5)---------------
 
 name = "#@#@Ali#@#@"
 
@@ -47,7 +47,7 @@ print(name.strip("#@"))
 
 print("="*40)
 
-# ---------------(Task 6)---------------
+# ---------------(Assignment 6)---------------
 
 num1 = "9"
 num2 = "15"
@@ -63,7 +63,7 @@ print(num5.zfill(4))
 
 print("="*40)
 
-# ---------------(Task 7)---------------
+# ---------------(Assignment 7)---------------
 
 name_one = "Ali"
 name_two = "Ali_Moustafa"
@@ -73,7 +73,7 @@ print(name_two.rjust(20,"@"))
 
 print("="*40)
 
-# ---------------(Task 8)---------------
+# ---------------(Assignment 8)---------------
 
 name_one = "MoUstaFa"
 name_two = "osaMA"
@@ -83,7 +83,7 @@ print(name_two.swapcase())
 
 print("="*40)
 
-# ---------------(Task 9)---------------
+# ---------------(Assignment 9)---------------
 
 msg = "I Love Python And, I Love Elzero Web School"
 
@@ -91,7 +91,7 @@ print(msg.count('Love'))
 
 print("="*40)
 
-# ---------------(Task 10)---------------
+# ---------------(Assignment 10)---------------
 
 name = "Ali"
 
@@ -99,7 +99,7 @@ print(name.index('i'))
 
 print("="*40)
 
-# ---------------(Task 11)---------------
+# ---------------(Assignment 11)---------------
 
 msg = "I Love Python And, I Love Elzero Web School"
 
@@ -107,7 +107,7 @@ print(msg.replace('Love', '<3', 1))
 
 print("="*40)
 
-# ---------------(Task 12)---------------
+# ---------------(Assignment 12)---------------
 
 msg = "I <3 Python And Although <3 Elzero Web School"
 
@@ -115,7 +115,7 @@ print(msg.replace('<3', 'Love'))
 
 print("="*40)
 
-# ---------------(Task 13)---------------
+# ---------------(Assignment 13)---------------
 
 name = "Ali"
 age = 22

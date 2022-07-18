@@ -1,4 +1,4 @@
-# ---------------(Task 1)---------------
+# ---------------(Assignment 1)---------------
 
 print(bool(True))
 print(bool("ali"))
@@ -11,7 +11,7 @@ print(bool(None))
 
 print("="*40)
 
-# ---------------(Task 2)---------------
+# ---------------(Assignment 2)---------------
 
 html = 80
 css = 60
@@ -21,7 +21,7 @@ print(html > 50 and css > 50 and javascript > 50 )
 
 print("="*40)
 
-# ---------------(Task 3)---------------
+# ---------------(Assignment 3)---------------
 
 num_one = 10
 num_two = 20
@@ -33,7 +33,7 @@ print(num > num_one and num > num_two)
 
 print("="*40)
 
-# ---------------(Task 4)---------------
+# ---------------(Assignment 4)---------------
 
 num_one = 10
 num_two = 20

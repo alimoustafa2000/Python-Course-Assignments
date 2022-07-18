@@ -1,4 +1,4 @@
-# ---------------(Task 1)---------------
+# ---------------(Assignment 1)---------------
 
 friends = ["Osama", "Ahmed", "Sayed", "Ali", "Mahmoud"]
 
@@ -9,7 +9,7 @@ print(friends.pop(-1))     # 2nd method
 
 print("="*40)
 
-# ---------------(Task 2)---------------
+# ---------------(Assignment 2)---------------
 
 friends = ["Osama", "Ahmed", "Sayed", "Ali", "Mahmoud"]
 
@@ -18,7 +18,7 @@ print(friends[1: :2])
 
 print("="*40)
 
-# ---------------(Task 3)---------------
+# ---------------(Assignment 3)---------------
 
 friends = ["Osama", "Ahmed", "Sayed", "Ali", "Mahmoud"]
 
@@ -27,7 +27,7 @@ print(friends[-2: ])
 
 print("="*40)
 
-# ---------------(Task 4)---------------
+# ---------------(Assignment 4)---------------
 
 friends = ["Osama", "Ahmed", "Sayed", "Ali", "Mahmoud"]
 
@@ -38,7 +38,7 @@ print(friends)
 
 print("="*40)
 
-# ---------------(Task 5)---------------
+# ---------------(Assignment 5)---------------
 
 friends = ["Osama", "Ahmed", "Sayed"]
 
@@ -52,7 +52,7 @@ print(friends)
 
 print("="*40)
 
-# ---------------(Task 6)---------------
+# ---------------(Assignment 6)---------------
 
 friends = ["Nasser", "Osama", "Ahmed", "Sayed", "Salem"]
 
@@ -65,7 +65,7 @@ print(friends)
 
 print("="*40)
 
-# ---------------(Task 7)---------------
+# ---------------(Assignment 7)---------------
 
 friends = ["Ahmed", "Sayed"]
 employees = ["Samah", "Eman"]
@@ -78,7 +78,7 @@ print(friends)
 
 print("="*40)
 
-# ---------------(Task 8)---------------
+# ---------------(Assignment 8)---------------
 
 friends = ["Ahmed", "Sayed", "Samah", "Eman", "Ramy", "Shady"]
 
@@ -90,7 +90,7 @@ print(friends)
 
 print("="*40)
 
-# ---------------(Task 9)---------------
+# ---------------(Assignment 9)---------------
 
 friends = ["Ahmed", "Sayed", "Samah", "Eman", "Ramy", "Shady"]
 
@@ -98,7 +98,7 @@ print(len(friends))
 
 print("="*40)
 
-# ---------------(Task 10)---------------
+# ---------------(Assignment 10)---------------
 
 technologies = ["Html", "CSS", "JS", "Python", ["Django", "Flask", "Web"]]
 
@@ -107,7 +107,7 @@ print(technologies[-1][-1])
 
 print("="*40)
 
-# ---------------(Task 11)---------------
+# ---------------(Assignment 11)---------------
 
 my_list = [1, 2, 3, 3, 4, 5, 1]
 my_list.remove(1)
