@@ -9,7 +9,7 @@ This repo is for Assignments of "Mastering Python" Course, Elzero web school.
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-115 Assignment-blue">
 
-![87%](https://progress-bar.dev/87/?title=Done)
+![88%](https://progress-bar.dev/88/?title=Done)
 <br />
 
 ## Assignments List
