@@ -9,7 +9,7 @@ This repo is for Assignments of "Mastering Python" Course, Elzero web school.
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-115 Assignment-blue">
 
-![88%](https://progress-bar.dev/88/?title=Done)
+![92%](https://progress-bar.dev/92/?title=Done)
 <br />
 
 ## Assignments List
@@ -35,7 +35,7 @@ This repo is for Assignments of "Mastering Python" Course, Elzero web school.
 - [x] Collection of Modules
 - [x] Error Handling and Debugging
 - [x] Regular Expression
-- [ ] Object Oriented Programming (OOP)
+- [x] Object Oriented Programming (OOP)
 - [ ] SQLite Database
 - [ ] Advanced Concepts
 
