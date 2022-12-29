@@ -7,7 +7,7 @@ This repo is for Assignments of "Mastering Python" Course From Elzero Academy..
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Lessons%20For%20This%20Course-152 Lesson-yellow">
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-115 Assignment-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-115 Assignments-blue">
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 <br />
