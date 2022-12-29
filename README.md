@@ -1,5 +1,5 @@
 # Python-Course-Assignments
-This repo is for Assignments of "Mastering Python" Course From Elzero web school. 
+This repo is for Assignments of "Mastering Python" Course From Elzero Academy.. 
 
 ---
 
