@@ -1,16 +1,22 @@
 # Python-Course-Assignments
-This repo is for Assignments Solutions of "Mastering Python" Course From Elzero Academy.
-
----
-
+<div align="center"> This repo is for Assignments Solutions of "Mastering Python" Course From Elzero Academy. </div>
+<br>
+<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs" >
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width="230" alt="HTML"></div><div align="center"><br><b>Python Course</b></div></a>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Course-20h24m-blue">
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Lessons%20For%20This%20Course-152 Lesson-yellow">
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Assignments%20For%20This%20Course-115 Assignments-blue">
 
-![100%](https://progress-bar.dev/100/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Completed)
 <br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Assignments List
 - [x] [Comments and Variables](https://github.com/alimoustafa2000/Python-Course-Assignments/tree/main/01-%20Comments%2C%20Variables%20%26%20Concatenation)
@@ -38,11 +44,6 @@ This repo is for Assignments Solutions of "Mastering Python" Course From Elzero 
 - [x] [Object Oriented Programming (OOP)](https://github.com/alimoustafa2000/Python-Course-Assignments/tree/main/20-%20OOP)
 - [x] [SQLite Database](https://github.com/alimoustafa2000/Python-Course-Assignments/tree/main/21-%20SQLite%20Database)
 - [x] [Advanced Concepts](https://github.com/alimoustafa2000/Python-Course-Assignments/tree/main/22-%20Advanced%20Concepts)
-
----
-
-## Course Link
-[Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
 
 ---
 
